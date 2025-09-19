@@ -1,0 +1,96 @@
+🎮 Prompt Complet – Jeu de Missions Secrètes Multijoueurs
+📌 Concept de Base
+
+Un jeu multijoueur (4+ joueurs) où chaque participant reçoit une mission secrète écrite par les autres joueurs ou générée par l’application.
+L’objectif : accomplir sa mission sans se faire démasquer tout en tentant de deviner les missions des autres.
+
+Les parties peuvent se jouer :
+
+Localement → sur un seul appareil, en mode soirée.
+
+En ligne → via un système de lobby avec confidentialité totale.
+
+🏆 Conditions de victoire et élimination
+
+Un joueur est éliminé si :
+
+Un autre joueur découvre correctement sa mission.
+
+Il accumule 3 mauvaises réponses en essayant de deviner les missions des autres.
+
+À la fin du timer global, les joueurs restants non démasqués gagnent la partie.
+
+⏱ Gestion du Temps
+
+Timer global → empêche les parties de durer éternellement.
+
+Timer dynamique optionnel → si un joueur n’a pas accompli sa mission dans un certain temps, il perd un “point de vie”.
+
+🔀 Variantes et options spéciales
+
+Indices obligatoires : chaque joueur doit donner un indice sur sa mission toutes les X minutes (ex : 2, 5, 10).
+
+Missions multiples : certains joueurs reçoivent plusieurs missions à remplir.
+
+Joueur neutre : certains n’ont pas de mission → doivent juste semer le doute.
+
+Missions jumelées : deux joueurs peuvent recevoir la même mission et doivent collaborer (coop).
+
+🎭 Système de Missions
+Catégories possibles :
+
+Faciles : petites actions discrètes (ex : dire un mot précis, poser une question simple).
+
+Moyennes : plus visibles (ex : convaincre un joueur de changer de place).
+
+Difficiles : missions risquées ou créatives (ex : faire rire quelqu’un sans qu’il le remarque).
+
+👉 Pour relancer l’intérêt, l’application proposera aussi des packs thématiques (horreur, humour, geek, soirée, etc.) → modèle économique possible avec DLC.
+
+⚡ Pouvoirs Spéciaux (optionnels)
+
+Switch → échanger sa mission avec un autre joueur.
+
+Question Forcée → obliger un joueur à répondre à une question.
+
+Silence → annuler un indice obligatoire d’un joueur.
+
+Trahison → dénoncer un coéquipier d’une mission jumelée pour obtenir un bonus.
+
+🎮 Modes de Jeu
+
+Mode Local – Un seul appareil
+
+Chaque joueur entre une mission en secret.
+
+L’app distribue aléatoirement les missions.
+
+Écran tourné ou verrouillé pour préserver la confidentialité.
+
+Mode Lobby en ligne
+
+Chaque joueur reçoit sa mission sur son propre appareil.
+
+Lobby privé avec code d’invitation.
+
+Chat vocal ou mini-chat (avec emojis/phrases prédéfinies pour les indices).
+
+🤩 Expériences Améliorées
+
+Interface fun avec avatars personnalisés, bruitages humoristiques, et un design simple à lire en soirée.
+
+Scores et progression → système de classement, titres (“Maître de la Discrétion”, “Détective Suprême”, etc.).
+
+Replay value → chaque partie est unique car basée sur la créativité des joueurs.
+
+🎯 En résumé
+
+Un party game social innovant mélangeant :
+
+Discrétion (comme Among Us),
+
+Créativité (comme Time’s Up),
+
+Tension et fun en groupe (comme Loup Garou).
+
+👉 C’est un jeu qui a un potentiel viral énorme pour les soirées entre amis et le multijoueur en ligne.
